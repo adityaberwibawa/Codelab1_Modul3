@@ -8,6 +8,7 @@ public class Main {
          int sum = x + y;
         System.out.println(sum);
 
-        
+        System.out.println("update");
+
     }
 }
